@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/xycye"><img src="https://telegra.ph/file/10a6358c57e53840accbe.jpg" width="5000"></a></p> 
+<h1 align="center"><b>7STAR-USERBOT 🇮🇩 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
 
 ## Support 🚑
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Userbot7STAR"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/xycye"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Inspiration & Credits
 * [Userge-X](https://github.com/code-rgb/USERGE-X/contributors)
@@ -34,7 +34,7 @@ $ python(3) string_gen.py
 
 ### Deploying To Heroku / Railway ⚙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevsExpo/FridayUserBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mocpi07/7STAR)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDevsExpo%2FFridayUserBot&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CLOG_GRP%2CMONGO_DB%2CSTRINGSESSION%2CTZ&optionalEnvs=BOT_TOKEN%2CCOMMAND_HANDLER%2CUPSTREAM_REPO&API_HASHDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&API_IDDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&BOT_TOKENDesc=Your+Bot+Token+Obtained+From+%40BotFather.+This+is+Not+Important&COMMAND_HANDLERDesc=Your+Command+Handler.&LOAD_UNOFFICIAL_PLUGINSDesc=Do+You+Wish+To+Load+X-Tra+Plugins%3F&LOG_GRPDesc=A+Group+ID+Where+You+Want+To+Log+Important+Logs.&MONGO_DBDesc=Create+A+Database+In+Mongodb+And+Get+URL.+Make+Sure+To+Enter+Correct+URL%21&STRINGSESSIONDesc=String+Session%2C+Run+string_gen.py+to+get+String+Session.&TZDesc=Your+Time+Zone&LOAD_UNOFFICIAL_PLUGINSDefault=True&TZDefault=Asia%2FKolkata)
 
