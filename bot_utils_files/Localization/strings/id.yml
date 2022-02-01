@@ -1,5 +1,5 @@
 language: "id"
-written_by: [Yoga_CIC, zYxDx]
+written_by: [mocpi, zYxDx]
 
 AFK_1: "**Tuan Saya Sedang Sibuk 👀.** \n__Dia AFK Karena__ `{}`"
 NEEDS_REPLY: "**400_REPLY_TO_MESSAGE :** `Harap Balas Ke {}.`"
@@ -203,7 +203,7 @@ YTDL_FAILED: "**Youtube Download Gagal!** \n**Error :** `{}`"
 NO_RESULTS: "`Hasil tidak ditemukan {}, Berikan input yang lebih spesifik.`"
 GETTING_RESULTS: "`Mencari hasil untuk {}. Harap tunggu.`"
 ALIVE_: "
-**{}'s Friday-UserBot Aktif!**\n\n
+**{}'s 7STAR USERBOT Aktif!**\n\n
 \n➔ **Versi :** __{}__
 \n➔ **Durasi Aktif :** __{}__
 \n➔ **PyroGram Versi :** __{}__
